@@ -1,6 +1,6 @@
 ### README for Electric Vehicle (EV) Dashboard
 
-![dashboard](https://github.com/user-attachments/assets/926f0cf7-0918-4d33-ac88-e369dfb985cb)
+![dashboard](https://github.com/keerthana1404/EV-dashboard-/blob/main/Untitled%20design.png)
 
 # Registered Electric Vehicle (BEVs + PHEVs) Analysis Dashboard
 
