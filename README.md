@@ -66,5 +66,5 @@ This dashboard is designed for various stakeholders in the electric vehicle ecos
 
 ## Credits
 
-- **Designed by**: K. Davis, 2024
+- **Designed by**:Keerthana Chenna
 - **Data Source**: Washington State Department of Licensing (DOL)
